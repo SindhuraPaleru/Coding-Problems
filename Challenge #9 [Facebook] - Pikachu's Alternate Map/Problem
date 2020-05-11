@@ -48,6 +48,7 @@ Example Input
 Example Output
 3
 6
+
 Explanation
 In the first case, the shortest path is to:
 walk from 1 to 2: 1 minutes
