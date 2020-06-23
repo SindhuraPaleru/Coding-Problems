@@ -11,4 +11,3 @@ for x in range(n):
         print(0)
        
 
-
