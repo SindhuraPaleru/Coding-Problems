@@ -1,7 +1,6 @@
 import java.lang.*;
 import java.util.*;
 class Main{
-    
     public static void main(String[] args)
     {
         Scanner ip=new Scanner(System.in);
